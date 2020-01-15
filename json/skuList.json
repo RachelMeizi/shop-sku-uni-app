@@ -1,0 +1,46 @@
+{
+	"status": 1,
+	"differenceList": [{
+			"id": "19",
+			"price": 200,
+			"stock": 19,
+			"compound": [{
+				"name": "颜色",
+				"value": "红色"
+			}, {
+				"name": "尺寸",
+				"value": "12"
+			}]
+			
+		},
+		{
+			"id": "21",
+			"price": 300,
+			"stock": 10,
+			"compound":[{
+				"name": "颜色",
+				"value": "白色"
+			}, {
+				"name": "尺寸",
+				"value": "17"
+			}]
+			
+		},
+		{
+			"id": "21",
+			"price": 300,
+			"stock": 10,
+			"compound":[{
+				"name": "颜色",
+				"value": "黑色"
+			}, {
+				"name": "尺寸",
+				"value": "17"
+			}]
+			
+		}
+		
+		
+	],
+	"msg": "提示信息"
+}

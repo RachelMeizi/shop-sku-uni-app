@@ -1,0 +1,56 @@
+{
+	"status": 1,
+	"product": {
+		"banner": [{
+				"Imgid": 1,
+				"src": "http://dummyimage.com/750x750"
+			},
+			{
+				"Imgid": 2,
+				"src": "http://dummyimage.com/750x750"
+			},
+			{
+				"Imgid": 3,
+				"src": "http://dummyimage.com/750x750"
+			}
+		],
+		"pid": 0,
+		"title": "还她并响强调发克门老于规自示月按段任支象自音中由长。",
+		"price": 55.6,
+		"discounts": "第一件9折，第二件8折，第三件7折，第一件9折，第二件8折，第三件7折",
+		"freight": "免运费",
+		"commonts": [{
+				"icon": "http://dummyimage.com/43x43",
+				"nickname": "又称放影信求。",
+				"comment": "听机中于员国何层先育西并我走历建个支现张战话。",
+				"productImg": "http://dummyimage.com/180x180"
+			},
+			{
+				"icon": "http://dummyimage.com/43x43",
+				"nickname": "部把办员生设。",
+				"comment": "效县性很证少量即他加地精十及光身研样处想通层象称思。",
+				"productImg": "http://dummyimage.com/180x180"
+			},
+			{
+				"icon": "http://dummyimage.com/43x43",
+				"nickname": "状件特质来。",
+				"comment": "专声路级是五上转圆断动老一红各来火活打已者经直价。",
+				"productImg": "http://dummyimage.com/180x180"
+			},
+			{
+				"icon": "http://dummyimage.com/43x43",
+				"nickname": "口从运二个。",
+				"comment": "造得量品直处置决列农长段其件报由统有有领干就应前共备马。",
+				"productImg": "http://dummyimage.com/180x180"
+			},
+			{
+				"icon": "http://dummyimage.com/43x43",
+				"nickname": "或照量好土。",
+				"comment": "易前应同式求科难中位酸很来民消法法派容业习。",
+				"productImg": "http://dummyimage.com/180x180"
+			}
+		],
+		"details": "http://dummyimage.com/750x1600"
+	},
+	"msg": "提示"
+}
